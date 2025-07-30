@@ -41,11 +41,11 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deadlywolf12&show_icons=true&theme=tokyonight&locale=en" alt="deadlywolf12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deadlywolf12&show_icons=true&theme=tokyonight&locale=en" alt="deadlywolf123" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deadlywolf12&theme=tokyonight" alt="deadlywolf12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deadlywolf12&theme=tokyonight" alt="deadlywolf124" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deadlywolf12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deadlywolf12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deadlywolf12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deadlywolf125" />
 </p>
